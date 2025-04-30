@@ -1,4 +1,4 @@
-# 🎤 Presentation Agenda – My Project Showcase
+# 🎤 Presentation Agenda
 
 ---
 
@@ -21,6 +21,7 @@ Before I started coding, I focused on:
 ---
 
 ## 🧾 Project Overviews
+
 
 ### 📄 Project 1: CV Website
 
