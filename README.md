@@ -2,7 +2,7 @@
 
 ---
 
-## 1. Introduction About Yourself
+## 1. Introduction
 
 Hi everyone! My name is **Jonni**, and I have a background in **iOS development**. I recently shifted focus to **web development**.
 
