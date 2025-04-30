@@ -33,7 +33,7 @@ A one-page, responsive resume for a fictional persona – “John Doe.”
 
 ---
 
-### 🧁 Project 2: Cakery Website (Munamii)
+### 🧁 Project 2: Cakery Website
 
 A bakery website with product logic and shopping cart.
 
